@@ -46,8 +46,7 @@ int main() {
     gettimeofday(&end, NULL);
     double time_taken = (end.tv_sec - start.tv_sec) + (end.tv_usec - start.tv_usec) * 1e-6;
 
-    // Calculate average time per saxpy call
-    double avg_time = time_taken / REPEAT_COUNT;
+    
 
     // Output the results
     printf("N = %d\n", n);
