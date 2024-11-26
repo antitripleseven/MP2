@@ -50,9 +50,9 @@ but with the same sets of data that were run 30 times, the same amount of time i
 
 ## Correctness Check
 
-![Correctness Check](https://github.com/user-attachments/assets/d742dc1f-6e79-41da-9d23-1802970a6955) Array Size = 3, A value = 3, x and y values = respectively 1,2,3 for the x, 11, 12, 13 for the y.
+![Correctness Check](https://github.com/user-attachments/assets/d742dc1f-6e79-41da-9d23-1802970a6955) <br/> Array Size = 3, A value = 3, x and y values = respectively 1,2,3 for the x, 11, 12, 13 for the y.
 
-![Correcnesst Check  2](https://github.com/user-attachments/assets/b75f5172-8565-408a-898c-c0cb5f4023bf) Array Size = 10, A value = 3, x and y values = 1,2,3,4,5,6,7,8,9,10 and 11,12,13,14,15,16,17,18,19,20
+![Correcnesst Check  2](https://github.com/user-attachments/assets/b75f5172-8565-408a-898c-c0cb5f4023bf) <br/> Array Size = 10, A value = 3, x and y values = 1,2,3,4,5,6,7,8,9,10 and 11,12,13,14,15,16,17,18,19,20
 
-![Correcnesst Check  2](https://github.com/user-attachments/assets/6dc67add-d324-4cc1-9746-7030657e189e) Manual Checking of the 2 previous inputs. 
+![Correcnesst Check  2](https://github.com/user-attachments/assets/6dc67add-d324-4cc1-9746-7030657e189e) <br/> Manual Checking of the 2 previous inputs. 
 
