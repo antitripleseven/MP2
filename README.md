@@ -9,7 +9,7 @@ MP2c.exe<br />
 ## Comparative Result
 ### Due to the recommendation by the instructor, we can get the comparative execution time by running it for 30 times.
 ### Array Size = 3, A value = 3, x and y values = respectively 1,2,3 for the x, 11, 12, 13 for the y.
-### Calcation: <br/>
+### Calculation: <br/>
 0.000027000
 0.000028000
 0.000028000
