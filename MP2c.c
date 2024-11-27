@@ -71,10 +71,6 @@ int main() {
     printf("Time taken: %.9f seconds\n", time_taken);
     printf("Average time per saxpy call: %.9f seconds\n", avg_time);
 
-    // Free allocated memory
-    free(x);
-    free(y);
-    free(z);
 
     return 0;
 }
